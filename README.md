@@ -66,6 +66,8 @@ SemiBin bin --data single_output/data.csv --recluster --model single_output/mode
 
 #### Binning with pretrained model (30 sec)
 
+This SemiBin(pretrain) version do not need constraints generation and model training.
+
 ```bash
 SemiBin bin --data single_output/data.csv --recluster --environment human_gut -i single_sample_binning/single.fasta -o single_output
 ```
