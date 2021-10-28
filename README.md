@@ -42,13 +42,13 @@ SemiBin predict_taxonomy -i single_sample_binning/single.fasta -o single_output 
 
 ### Training
 
-#### Train from one sample (4 min)
+#### Train from one sample (5 min)
 
 ```bash
 SemiBin train --data single_output/data.csv --data-split single_output/data_split.csv -c single_sample_binning/cannot.txt --mode single -i single_sample_binning/single.fasta -o single_output
 ```
 
-#### Train from two samples (4 min)
+#### Train from two samples (5 min)
 
 ```bash
 SemiBin train --data single_output/data.csv single_output/data.csv --data-split single_output/data_split.csv single_output/data_split.csv -c single_sample_binning/cannot.txt single_sample_binning/cannot.txt --mode several -i single_sample_binning/single.fasta single_sample_binning/single.fasta -o single_output
