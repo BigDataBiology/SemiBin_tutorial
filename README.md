@@ -32,7 +32,9 @@ SemiBin generate_data_single -i coassembly_binning/coassembly.fasta -b coassembl
 SemiBin generate_data_multi -i multi_sample_binning/combined.fasta -b multi_sample_binning/*.bam -s : -o multi_output
 ```
 
-For multi-sample binning, after this command, SemiBin will generate data.csv and data_split.csv for every sample. For the following commands, SemiBin will deal with every sample in the same way with single-sample or coassembly binning. So we just use single-sample binning as an example.
+For multi-sample binning, after this command, SemiBin will generate data.csv and data_split.csv for every sample. 
+
+For the following commands, SemiBin will deal with every sample in the same way with single-sample, coassembly binning and multi-sample binning. So we just use single-sample binning as an example.
 
 ### Constraints generation (30 min, we have provided the output of this command, you can skip this step)
 
