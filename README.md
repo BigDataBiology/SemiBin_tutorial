@@ -17,19 +17,19 @@ biological conclusions!
 #### Single-sample (30 sec)
 
 ```bash
-SemiBin generate_data_single -i single_sample_binning/single.fasta -b single_sample_binning/single.bam -o single_output 
+SemiBin generate_sequence_features_single -i single_sample_binning/single.fasta -b single_sample_binning/single.bam -o single_output 
 ```
 
 #### Co-assembly ( 30 sec)
 
 ```bash
-SemiBin generate_data_single -i coassembly_binning/coassembly.fasta -b coassembly_binning/*.bam -o coassembly_output
+SemiBin generate_sequence_features_single -i coassembly_binning/coassembly.fasta -b coassembly_binning/*.bam -o coassembly_output
 ```
 
 #### Multi-sample (1 min)
 
 ```bash
-SemiBin generate_data_multi -i multi_sample_binning/combined.fasta -b multi_sample_binning/*.bam -s : -o multi_output
+SemiBin generate_sequence_features_multi -i multi_sample_binning/combined.fasta -b multi_sample_binning/*.bam -s : -o multi_output
 ```
 
 For multi-sample binning, after this command, SemiBin will generate data.csv and data_split.csv for every sample. 
@@ -39,7 +39,7 @@ For the following commands, SemiBin will deal with every sample in the same way 
 ### Constraints generation (30 min, we have provided the output of this command, you can skip this step)
 
 ```bash
-SemiBin predict_taxonomy -i single_sample_binning/single.fasta -o single_output -r $HOME/.cache/SemiBin/mmseqs2-GTDB/GTDB  
+SemiBin generate_cannot_links -i single_sample_binning/single.fasta -o single_output -r $HOME/.cache/SemiBin/mmseqs2-GTDB/GTDB  
 ```
 
 ### Training
