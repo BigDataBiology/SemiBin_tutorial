@@ -1,0 +1,612 @@
+k115_6382	13548	genus	Treponema A	4	4	4	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_5203	566	species	Prevotella intermedia	11	9	6	0.520	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3637	566	species	Prevotella intermedia	15	15	10	0.980	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_4916	206	order	Bacteroidales	5	5	5	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_1134	566	species	Prevotella intermedia	21	19	11	0.640	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_6474	206	order	Bacteroidales	18	16	12	0.730	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_7765	206	order	Bacteroidales	22	22	14	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_3286	566	species	Prevotella intermedia	8	8	5	0.540	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3693	209	species	Bacteroides fragilis	6	5	2	0.640	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_4957	565	genus	Prevotella	27	25	21	0.870	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_1658	13548	genus	Treponema A	3	3	3	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_6623	209	species	Bacteroides fragilis	9	9	4	0.930	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_6636	565	genus	Prevotella	9	9	9	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_2988	565	genus	Prevotella	8	8	7	0.840	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_7564	209	species	Bacteroides fragilis	10	8	4	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_5055	8420	species	Treponema D porcinum	2	1	1	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema D;s_Treponema D porcinum
+k115_6692	209	species	Bacteroides fragilis	58	52	32	0.730	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_4743	1193	species	Bacteroides eggerthii	14	14	10	0.790	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides eggerthii
+k115_9303	566	species	Prevotella intermedia	33	32	19	0.600	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_7219	566	species	Prevotella intermedia	15	15	7	0.600	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_6682	22555	species	UBA1066 sp002316215	3	2	1	0.940	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Lachnospirales;f_Lachnospiraceae;g_UBA1066;s_UBA1066 sp002316215
+k115_7575	11375	species	Treponema B denticola A	7	7	5	0.610	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema B;s_Treponema B denticola A
+k115_3786	208	genus	Bacteroides	22	19	13	0.790	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_278	288	family	Treponemataceae	5	5	5	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae
+k115_299	208	genus	Bacteroides	11	11	7	0.740	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_960	208	genus	Bacteroides	46	40	24	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_6004	2	superkingdom	Bacteria	7	7	6	1.000	d_Bacteria
+k115_6049	209	species	Bacteroides fragilis	2	2	1	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_4402	566	species	Prevotella intermedia	14	14	10	0.750	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_8074	565	genus	Prevotella	52	51	45	0.860	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_8345	565	genus	Prevotella	10	9	5	0.820	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_4187	565	genus	Prevotella	36	35	32	0.890	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_1334	565	genus	Prevotella	34	33	31	0.920	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_8440	209	species	Bacteroides fragilis	13	12	4	0.560	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_7654	209	species	Bacteroides fragilis	4	4	3	0.990	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_3080	208	genus	Bacteroides	24	20	18	0.940	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_3114	1193	species	Bacteroides eggerthii	3	3	3	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides eggerthii
+k115_5179	288	family	Treponemataceae	4	4	3	0.670	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae
+k115_5619	565	genus	Prevotella	9	9	7	0.530	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_1819	566	species	Prevotella intermedia	11	10	6	0.790	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_4157	206	order	Bacteroidales	9	8	8	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_2520	565	genus	Prevotella	8	7	7	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_3003	11530	species	Treponema D sp002399405	3	3	1	0.890	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema D;s_Treponema D sp002399405
+k115_5499	565	genus	Prevotella	4	4	4	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_524	566	species	Prevotella intermedia	11	10	4	0.630	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3069	208	genus	Bacteroides	10	7	6	0.830	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_588	2	superkingdom	Bacteria	6	6	6	1.000	d_Bacteria
+k115_6356	209	species	Bacteroides fragilis	13	11	6	0.730	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_7220	566	species	Prevotella intermedia	14	14	11	0.980	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_404	565	genus	Prevotella	5	5	3	0.740	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_2481	209	species	Bacteroides fragilis	15	15	9	0.740	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_2939	209	species	Bacteroides fragilis	10	10	6	0.660	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_3361	565	genus	Prevotella	8	8	8	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_2152	566	species	Prevotella intermedia	9	9	6	0.820	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3443	28689	species	Treponema A sp000775995	6	6	3	0.510	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A sp000775995
+k115_9274	832	species	Bacteroides fragilis A	2	2	1	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis A
+k115_5508	209	species	Bacteroides fragilis	44	36	20	0.620	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_5947	11375	species	Treponema B denticola A	4	4	2	0.920	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema B;s_Treponema B denticola A
+k115_9317	565	genus	Prevotella	5	5	4	0.540	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_1779	566	species	Prevotella intermedia	12	12	8	0.540	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_5035	565	genus	Prevotella	14	14	12	0.790	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_919	209	species	Bacteroides fragilis	8	6	3	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_8473	1157	genus	Treponema B	3	3	2	0.520	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema B
+k115_4298	11375	species	Treponema B denticola A	6	6	3	0.590	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema B;s_Treponema B denticola A
+k115_2268	209	species	Bacteroides fragilis	5	5	4	0.990	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_373	8420	species	Treponema D porcinum	6	6	6	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema D;s_Treponema D porcinum
+k115_3128	566	species	Prevotella intermedia	7	7	2	0.860	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_9743	566	species	Prevotella intermedia	8	7	4	0.590	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_1490	566	species	Prevotella intermedia	7	7	5	0.980	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_8535	209	species	Bacteroides fragilis	102	91	54	0.700	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_4335	565	genus	Prevotella	16	16	14	0.880	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_3121	565	genus	Prevotella	9	9	9	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_2359	566	species	Prevotella intermedia	15	15	10	0.720	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_4887	566	species	Prevotella intermedia	12	12	5	0.570	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_5675	209	species	Bacteroides fragilis	34	32	21	0.710	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1905	206	order	Bacteroidales	6	6	5	0.800	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_8144	1193	species	Bacteroides eggerthii	21	19	15	0.930	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides eggerthii
+k115_4464	566	species	Prevotella intermedia	10	10	8	0.830	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3684	209	species	Bacteroides fragilis	36	31	20	0.680	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9439	566	species	Prevotella intermedia	7	7	4	0.730	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3829	565	genus	Prevotella	10	10	7	0.610	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_8501	566	species	Prevotella intermedia	15	15	7	0.570	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_363	206	order	Bacteroidales	14	13	11	0.990	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_6034	13548	genus	Treponema A	4	4	4	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_5649	566	species	Prevotella intermedia	7	7	4	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_9751	208	genus	Bacteroides	13	13	13	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_7380	565	genus	Prevotella	9	9	7	0.720	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_1132	209	species	Bacteroides fragilis	18	16	10	0.690	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_5264	207	family	Bacteroidaceae	7	7	5	0.510	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_9380	209	species	Bacteroides fragilis	73	68	33	0.580	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_223	206	order	Bacteroidales	19	18	18	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_264	209	species	Bacteroides fragilis	3	2	1	0.960	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9876	209	species	Bacteroides fragilis	40	35	21	0.750	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1267	288	family	Treponemataceae	4	4	4	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae
+k115_6632	209	species	Bacteroides fragilis	14	13	6	0.620	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_5821	209	species	Bacteroides fragilis	46	41	20	0.580	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1723	208	genus	Bacteroides	28	25	22	0.900	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_505	209	species	Bacteroides fragilis	24	21	11	0.660	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_4700	207	family	Bacteroidaceae	15	13	13	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_5932	13548	genus	Treponema A	6	6	4	0.600	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_9691	209	species	Bacteroides fragilis	9	8	5	0.630	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_6744	566	species	Prevotella intermedia	25	25	15	0.680	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3120	208	genus	Bacteroides	18	16	15	0.920	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_4808	1428	genus	Treponema D	3	3	2	0.670	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema D
+k115_6067	566	species	Prevotella intermedia	6	6	3	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3171	209	species	Bacteroides fragilis	28	26	18	0.810	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1887	209	species	Bacteroides fragilis	3	3	2	0.950	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_6815	566	species	Prevotella intermedia	44	44	25	0.720	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_1191	209	species	Bacteroides fragilis	12	11	5	0.570	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_5340	209	species	Bacteroides fragilis	11	10	6	0.850	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9859	209	species	Bacteroides fragilis	14	14	12	0.920	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9463	207	family	Bacteroidaceae	38	35	29	0.860	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_9004	208	genus	Bacteroides	14	12	7	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_3688	209	species	Bacteroides fragilis	112	104	46	0.520	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_7861	209	species	Bacteroides fragilis	9	7	4	0.780	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9524	15203	species	Parabacteroides bouchesdurhonensis	7	7	5	0.990	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Tannerellaceae;g_Parabacteroides;s_Parabacteroides bouchesdurhonensis
+k115_9544	566	species	Prevotella intermedia	5	5	5	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_8369	566	species	Prevotella intermedia	3	3	1	0.910	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3035	206	order	Bacteroidales	7	7	6	0.800	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_7608	206	order	Bacteroidales	13	11	11	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_7651	1428	genus	Treponema D	3	2	1	0.500	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema D
+k115_5545	209	species	Bacteroides fragilis	5	5	5	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_891	566	species	Prevotella intermedia	3	2	1	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3047	206	order	Bacteroidales	12	9	8	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_948	206	order	Bacteroidales	3	3	3	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_8835	13548	genus	Treponema A	4	4	4	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_4771	209	species	Bacteroides fragilis	16	14	8	0.790	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_5177	13548	genus	Treponema A	5	5	5	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_9693	209	species	Bacteroides fragilis	68	63	38	0.710	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_6065	209	species	Bacteroides fragilis	15	15	12	0.850	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_2591	565	genus	Prevotella	15	15	10	0.710	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_9359	208	genus	Bacteroides	94	84	65	0.810	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_4956	566	species	Prevotella intermedia	5	5	4	0.540	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_7434	208	genus	Bacteroides	5	5	4	0.960	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_6496	206	order	Bacteroidales	21	20	12	0.630	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_6929	565	genus	Prevotella	4	4	4	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_9052	209	species	Bacteroides fragilis	18	15	9	0.640	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_2916	209	species	Bacteroides fragilis	8	5	4	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9525	832	species	Bacteroides fragilis A	8	7	4	0.600	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis A
+k115_2974	566	species	Prevotella intermedia	12	12	7	0.660	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_7560	566	species	Prevotella intermedia	19	19	9	0.610	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3036	209	species	Bacteroides fragilis	2	2	1	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_3522	565	genus	Prevotella	16	16	15	0.840	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_1812	209	species	Bacteroides fragilis	8	8	7	0.880	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_7686	209	species	Bacteroides fragilis	109	97	60	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_2631	209	species	Bacteroides fragilis	11	10	7	0.710	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1541	209	species	Bacteroides fragilis	14	11	9	0.820	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_3668	566	species	Prevotella intermedia	11	11	6	0.660	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_4481	565	genus	Prevotella	4	4	4	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_6518	208	genus	Bacteroides	3	3	2	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_8247	209	species	Bacteroides fragilis	11	10	10	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_2074	565	genus	Prevotella	6	6	6	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_2455	13548	genus	Treponema A	7	7	5	0.750	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_3296	566	species	Prevotella intermedia	12	12	7	0.590	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_2799	566	species	Prevotella intermedia	29	28	18	0.780	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_829	209	species	Bacteroides fragilis	19	19	7	0.530	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_4169	566	species	Prevotella intermedia	3	2	1	0.980	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_141	209	species	Bacteroides fragilis	5	5	4	0.680	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_490	205	class	Bacteroidia	4	4	3	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia
+k115_5036	36083	species	Treponema A medium	2	2	1	0.500	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A medium
+k115_7096	565	genus	Prevotella	17	17	15	0.890	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_7942	565	genus	Prevotella	44	44	36	0.770	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_6233	206	order	Bacteroidales	8	8	8	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_9212	209	species	Bacteroides fragilis	8	8	7	0.990	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_3039	566	species	Prevotella intermedia	12	11	7	0.840	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3058	565	genus	Prevotella	17	17	15	0.990	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_287	209	species	Bacteroides fragilis	5	5	3	0.740	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_7953	208	genus	Bacteroides	21	21	16	0.820	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_5992	208	genus	Bacteroides	12	12	10	0.900	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_2568	566	species	Prevotella intermedia	10	8	3	0.620	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_5195	566	species	Prevotella intermedia	54	53	40	0.810	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3976	209	species	Bacteroides fragilis	11	10	4	0.660	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_5940	566	species	Prevotella intermedia	10	10	8	0.860	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_1392	209	species	Bacteroides fragilis	10	10	4	0.650	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_8021	566	species	Prevotella intermedia	7	7	4	0.660	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_682	208	genus	Bacteroides	31	29	14	0.520	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_7339	566	species	Prevotella intermedia	8	6	4	0.970	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_6786	209	species	Bacteroides fragilis	6	4	4	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_7738	209	species	Bacteroides fragilis	33	31	16	0.640	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_6174	565	genus	Prevotella	21	21	20	0.910	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_6844	208	genus	Bacteroides	38	35	23	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_9858	209	species	Bacteroides fragilis	14	12	9	0.750	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_8181	566	species	Prevotella intermedia	43	41	26	0.720	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_2744	565	genus	Prevotella	27	26	24	0.930	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_2837	209	species	Bacteroides fragilis	57	50	30	0.640	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_2895	208	genus	Bacteroides	3	3	2	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_842	287	order	Treponematales	3	3	2	0.510	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales
+k115_871	208	genus	Bacteroides	8	8	4	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_7912	206	order	Bacteroidales	5	5	5	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_3027	13548	genus	Treponema A	2	2	2	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_1742	36083	species	Treponema A medium	4	4	4	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A medium
+k115_7644	12	class	Bacilli	3	3	2	0.670	d_Bacteria;p_Firmicutes;c_Bacilli
+k115_430	209	species	Bacteroides fragilis	7	7	5	0.710	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_6202	209	species	Bacteroides fragilis	44	40	25	0.680	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_887	566	species	Prevotella intermedia	13	13	9	0.630	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_6683	566	species	Prevotella intermedia	16	15	9	0.770	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_1735	565	genus	Prevotella	24	22	16	0.620	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_5073	1193	species	Bacteroides eggerthii	15	12	7	0.690	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides eggerthii
+k115_4282	36083	species	Treponema A medium	3	3	3	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A medium
+k115_1747	209	species	Bacteroides fragilis	75	63	34	0.650	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_3877	2	superkingdom	Bacteria	4	4	4	1.000	d_Bacteria
+k115_1790	566	species	Prevotella intermedia	5	5	3	0.740	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_5654	209	species	Bacteroides fragilis	2	2	1	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_7357	209	species	Bacteroides fragilis	6	4	2	0.650	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_797	209	species	Bacteroides fragilis	5	5	5	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1940	565	genus	Prevotella	5	5	5	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_2437	208	genus	Bacteroides	19	17	14	0.920	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_6194	565	genus	Prevotella	7	7	7	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_2697	566	species	Prevotella intermedia	26	24	16	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_8253	566	species	Prevotella intermedia	33	32	17	0.680	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_9509	13548	genus	Treponema A	6	6	4	0.520	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_9127	1	no rank	root	6	6	6	1.000	-_root
+k115_6954	206	order	Bacteroidales	16	16	13	0.770	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_2859	565	genus	Prevotella	33	32	26	0.790	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_5295	36083	species	Treponema A medium	3	3	2	0.670	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A medium
+k115_6872	208	genus	Bacteroides	5	5	4	0.800	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_9433	208	genus	Bacteroides	3	3	2	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_6971	1193	species	Bacteroides eggerthii	25	21	13	0.660	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides eggerthii
+k115_9096	208	genus	Bacteroides	16	14	10	0.640	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_1298	209	species	Bacteroides fragilis	10	10	3	0.620	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1716	240	class	Spirochaetia	3	3	3	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia
+k115_2160	206	order	Bacteroidales	4	4	2	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_383	565	genus	Prevotella	11	10	10	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_1407	206	order	Bacteroidales	11	11	11	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_4411	209	species	Bacteroides fragilis	5	4	3	0.990	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1502	208	genus	Bacteroides	3	3	2	0.510	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_8542	13548	genus	Treponema A	2	2	2	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_9805	565	genus	Prevotella	20	20	19	0.910	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_3216	208	genus	Bacteroides	73	67	47	0.760	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_4512	11375	species	Treponema B denticola A	5	5	4	0.680	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema B;s_Treponema B denticola A
+k115_7822	565	genus	Prevotella	5	4	4	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_9486	565	genus	Prevotella	28	28	26	0.940	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_7134	209	species	Bacteroides fragilis	6	6	5	0.760	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_3479	209	species	Bacteroides fragilis	68	60	21	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_5574	565	genus	Prevotella	7	7	6	0.540	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_2566	209	species	Bacteroides fragilis	103	94	45	0.520	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_6053	565	genus	Prevotella	13	13	8	0.560	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_3959	566	species	Prevotella intermedia	26	24	16	0.980	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_2371	209	species	Bacteroides fragilis	49	41	27	0.810	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_5702	209	species	Bacteroides fragilis	16	15	9	0.770	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_7407	566	species	Prevotella intermedia	12	12	5	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_6482	36083	species	Treponema A medium	3	3	2	0.670	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A medium
+k115_583	209	species	Bacteroides fragilis	11	9	6	0.740	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_7681	13548	genus	Treponema A	5	5	5	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_2289	566	species	Prevotella intermedia	8	8	4	0.730	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_5606	566	species	Prevotella intermedia	5	5	4	0.750	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3571	209	species	Bacteroides fragilis	7	5	5	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1467	566	species	Prevotella intermedia	10	10	8	0.990	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_5690	209	species	Bacteroides fragilis	5	4	4	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_4937	9445	species	Prevotella pallens	3	3	3	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella pallens
+k115_1565	566	species	Prevotella intermedia	13	13	7	0.570	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_9839	565	genus	Prevotella	2	2	2	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_1881	209	species	Bacteroides fragilis	15	13	10	0.820	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_5243	566	species	Prevotella intermedia	5	5	5	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_4083	209	species	Bacteroides fragilis	51	45	23	0.610	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_8633	565	genus	Prevotella	21	20	10	0.760	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_3282	207	family	Bacteroidaceae	40	39	18	0.570	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_1628	208	genus	Bacteroides	85	76	51	0.800	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_7445	565	genus	Prevotella	11	10	9	0.760	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_5431	209	species	Bacteroides fragilis	7	7	3	0.720	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_2123	565	genus	Prevotella	32	32	30	0.960	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_474	209	species	Bacteroides fragilis	9	9	6	0.750	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_3602	565	genus	Prevotella	9	9	8	0.700	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_7727	565	genus	Prevotella	4	4	4	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_2389	209	species	Bacteroides fragilis	33	27	13	0.570	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_8943	209	species	Bacteroides fragilis	133	121	48	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_3217	288	family	Treponemataceae	6	6	5	0.980	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae
+k115_8964	209	species	Bacteroides fragilis	38	32	23	0.790	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_6549	208	genus	Bacteroides	18	17	10	0.570	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_7000	25942	species	Bacteroides bouchesdurhonensis	16	14	3	0.550	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides bouchesdurhonensis
+k115_9510	209	species	Bacteroides fragilis	6	6	4	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_459	209	species	Bacteroides fragilis	4	4	2	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_198	566	species	Prevotella intermedia	19	19	8	0.760	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3462	832	species	Bacteroides fragilis A	3	2	1	0.940	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis A
+k115_9279	566	species	Prevotella intermedia	8	8	4	0.570	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_7661	566	species	Prevotella intermedia	17	17	10	0.860	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3083	209	species	Bacteroides fragilis	3	2	2	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1777	208	genus	Bacteroides	25	23	16	0.800	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_6362	566	species	Prevotella intermedia	9	9	5	0.810	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_2360	565	genus	Prevotella	19	19	17	0.980	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_4893	208	genus	Bacteroides	4	4	2	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_3177	565	genus	Prevotella	35	33	30	0.940	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_1697	209	species	Bacteroides fragilis	13	10	6	0.850	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_2530	566	species	Prevotella intermedia	6	6	5	0.750	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_9590	565	genus	Prevotella	42	38	20	0.530	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_6271	208	genus	Bacteroides	7	7	6	0.860	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_930	13549	species	Treponema A vincentii	22	22	3	0.740	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A vincentii
+k115_8475	1193	species	Bacteroides eggerthii	17	15	7	0.650	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides eggerthii
+k115_300	565	genus	Prevotella	3	3	3	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_8505	566	species	Prevotella intermedia	21	20	9	0.530	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3897	566	species	Prevotella intermedia	19	17	10	0.660	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_1070	565	genus	Prevotella	6	5	4	0.980	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_6754	566	species	Prevotella intermedia	52	50	24	0.690	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_2576	209	species	Bacteroides fragilis	12	10	4	0.650	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_6440	565	genus	Prevotella	20	18	18	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_6443	566	species	Prevotella intermedia	34	32	16	0.550	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_5259	565	genus	Prevotella	44	40	31	0.820	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_8949	209	species	Bacteroides fragilis	23	23	15	0.710	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1625	207	family	Bacteroidaceae	7	7	7	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_2047	565	genus	Prevotella	11	10	9	0.990	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_9878	208	genus	Bacteroides	4	4	4	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_4974	209	species	Bacteroides fragilis	3	3	3	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_3220	208	genus	Bacteroides	8	6	6	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_6531	7438	species	Parabacteroides sp003479145	2	2	1	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Tannerellaceae;g_Parabacteroides;s_Parabacteroides sp003479145
+k115_6606	566	species	Prevotella intermedia	14	14	10	0.820	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_1250	209	species	Bacteroides fragilis	5	5	3	0.510	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_7868	565	genus	Prevotella	27	26	23	0.940	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_9154	566	species	Prevotella intermedia	19	19	12	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_2547	566	species	Prevotella intermedia	3	3	3	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_7065	1193	species	Bacteroides eggerthii	13	12	8	0.870	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides eggerthii
+k115_9648	36083	species	Treponema A medium	4	4	3	0.980	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A medium
+k115_5908	566	species	Prevotella intermedia	10	10	6	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_843	1158	species	Treponema B denticola	2	2	1	0.500	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema B;s_Treponema B denticola
+k115_1319	13548	genus	Treponema A	5	5	5	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_6240	209	species	Bacteroides fragilis	10	8	8	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_3438	566	species	Prevotella intermedia	9	8	4	0.590	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_5882	566	species	Prevotella intermedia	24	23	11	0.540	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_268	2	superkingdom	Bacteria	15	15	15	1.000	d_Bacteria
+k115_1366	209	species	Bacteroides fragilis	72	62	37	0.760	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_2250	208	genus	Bacteroides	25	24	19	0.800	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_5587	566	species	Prevotella intermedia	14	14	9	0.630	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_8534	209	species	Bacteroides fragilis	14	12	8	0.720	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9680	565	genus	Prevotella	4	4	2	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_608	3025	species	Prevotella denticola	2	2	1	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella denticola
+k115_5997	566	species	Prevotella intermedia	4	4	4	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3122	832	species	Bacteroides fragilis A	8	8	4	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis A
+k115_6768	566	species	Prevotella intermedia	11	11	7	0.830	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_6076	566	species	Prevotella intermedia	25	23	13	0.730	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_6113	566	species	Prevotella intermedia	24	24	12	0.620	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_5714	1157	genus	Treponema B	6	6	3	0.590	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema B
+k115_4442	209	species	Bacteroides fragilis	31	29	21	0.830	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_5317	13548	genus	Treponema A	3	3	3	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_8149	209	species	Bacteroides fragilis	21	20	11	0.590	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9846	566	species	Prevotella intermedia	4	4	2	0.930	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_7814	209	species	Bacteroides fragilis	12	11	6	0.600	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9481	208	genus	Bacteroides	8	4	4	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_8709	209	species	Bacteroides fragilis	8	6	3	0.660	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9526	288	family	Treponemataceae	3	3	3	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae
+k115_2127	566	species	Prevotella intermedia	11	10	4	0.770	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3754	208	genus	Bacteroides	64	61	50	0.810	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_7070	566	species	Prevotella intermedia	8	8	7	0.990	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_8441	566	species	Prevotella intermedia	5	4	3	0.750	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3150	209	species	Bacteroides fragilis	13	10	6	0.700	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1845	566	species	Prevotella intermedia	9	9	5	0.700	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_788	565	genus	Prevotella	19	19	15	0.790	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_7382	209	species	Bacteroides fragilis	47	40	14	0.530	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_5716	209	species	Bacteroides fragilis	52	50	22	0.510	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_3219	566	species	Prevotella intermedia	18	17	13	0.980	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_9412	566	species	Prevotella intermedia	14	14	7	0.650	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_6583	566	species	Prevotella intermedia	3	3	3	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_9501	566	species	Prevotella intermedia	17	17	5	0.630	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_438	209	species	Bacteroides fragilis	19	18	5	0.880	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_3648	209	species	Bacteroides fragilis	67	64	40	0.660	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1999	209	species	Bacteroides fragilis	5	4	2	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9397	209	species	Bacteroides fragilis	15	14	13	0.920	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_2698	565	genus	Prevotella	18	18	10	0.550	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_1637	566	species	Prevotella intermedia	27	26	15	0.610	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_1665	566	species	Prevotella intermedia	6	6	3	0.650	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_860	208	genus	Bacteroides	10	8	8	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_7903	206	order	Bacteroidales	8	8	7	0.690	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_7058	209	species	Bacteroides fragilis	26	23	16	0.730	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_216	832	species	Bacteroides fragilis A	10	9	3	0.580	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis A
+k115_8825	13548	genus	Treponema A	2	2	1	0.500	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_6343	209	species	Bacteroides fragilis	21	20	10	0.580	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_8910	288	family	Treponemataceae	6	6	5	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae
+k115_8014	565	genus	Prevotella	8	8	8	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_1418	206	order	Bacteroidales	2	2	2	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_724	208	genus	Bacteroides	5	5	4	0.750	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_8094	209	species	Bacteroides fragilis	9	9	6	0.740	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_2637	209	species	Bacteroides fragilis	20	19	9	0.530	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_2436	566	species	Prevotella intermedia	7	7	4	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_4477	13548	genus	Treponema A	3	3	3	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_6078	208	genus	Bacteroides	23	18	15	0.910	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_5215	208	genus	Bacteroides	49	46	30	0.650	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_7403	209	species	Bacteroides fragilis	8	8	2	0.610	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9807	565	genus	Prevotella	34	34	32	0.920	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_1609	565	genus	Prevotella	21	21	21	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_6924	566	species	Prevotella intermedia	8	8	5	0.510	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_8254	832	species	Bacteroides fragilis A	2	2	2	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis A
+k115_7447	566	species	Prevotella intermedia	7	7	4	0.730	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_1695	565	genus	Prevotella	10	10	6	0.510	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_5001	207	family	Bacteroidaceae	5	5	4	0.680	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_8106	209	species	Bacteroides fragilis	15	13	10	0.820	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_8561	566	species	Prevotella intermedia	26	25	14	0.750	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3680	209	species	Bacteroides fragilis	4	4	3	0.990	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9844	566	species	Prevotella intermedia	23	23	15	0.820	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_1238	209	species	Bacteroides fragilis	6	6	3	0.590	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9469	6612	species	Phocaeicola sp002493165	7	7	4	0.780	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Phocaeicola;s_Phocaeicola sp002493165
+k115_1663	209	species	Bacteroides fragilis	13	10	6	0.840	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_7043	565	genus	Prevotella	31	30	25	0.730	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_3362	28689	species	Treponema A sp000775995	5	5	5	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A sp000775995
+k115_6251	565	genus	Prevotella	7	7	7	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_4294	288	family	Treponemataceae	5	5	3	0.600	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae
+k115_3857	37	phylum	Firmicutes A	3	3	2	0.670	d_Bacteria;p_Firmicutes A
+k115_6359	566	species	Prevotella intermedia	31	31	15	0.710	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3124	11375	species	Treponema B denticola A	3	3	2	0.980	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema B;s_Treponema B denticola A
+k115_2569	208	genus	Bacteroides	35	35	20	0.580	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_6776	566	species	Prevotella intermedia	49	49	27	0.540	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3193	28689	species	Treponema A sp000775995	8	8	6	0.530	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A sp000775995
+k115_8140	565	genus	Prevotella	8	8	7	0.690	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_1571	566	species	Prevotella intermedia	12	12	6	0.910	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_2441	209	species	Bacteroides fragilis	39	33	23	0.850	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_8463	565	genus	Prevotella	8	8	8	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_5129	565	genus	Prevotella	8	8	8	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_7201	566	species	Prevotella intermedia	4	4	4	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3485	565	genus	Prevotella	66	65	59	0.890	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_402	288	family	Treponemataceae	4	4	4	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae
+k115_8929	209	species	Bacteroides fragilis	45	35	18	0.610	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9758	566	species	Prevotella intermedia	12	11	7	0.600	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_6797	566	species	Prevotella intermedia	5	5	4	0.990	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_2639	565	genus	Prevotella	19	19	18	0.820	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_8582	566	species	Prevotella intermedia	13	13	10	0.980	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_7500	36083	species	Treponema A medium	3	3	2	0.670	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A medium
+k115_6672	565	genus	Prevotella	12	12	12	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_6263	208	genus	Bacteroides	13	12	10	0.720	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_4676	209	species	Bacteroides fragilis	22	19	13	0.920	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_4716	566	species	Prevotella intermedia	9	9	3	0.890	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_9298	566	species	Prevotella intermedia	17	17	11	0.640	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3094	207	family	Bacteroidaceae	7	7	5	0.610	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_8515	566	species	Prevotella intermedia	9	9	5	0.590	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_9358	209	species	Bacteroides fragilis	15	14	7	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_5201	28689	species	Treponema A sp000775995	1	1	1	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A sp000775995
+k115_4035	209	species	Bacteroides fragilis	12	11	7	0.750	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1910	13548	genus	Treponema A	3	3	3	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_8567	565	genus	Prevotella	12	12	11	0.560	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_1589	566	species	Prevotella intermedia	8	6	4	0.510	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_2677	209	species	Bacteroides fragilis	39	36	19	0.610	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_8235	566	species	Prevotella intermedia	34	34	19	0.660	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_2821	209	species	Bacteroides fragilis	13	12	5	0.690	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_437	566	species	Prevotella intermedia	7	7	3	0.650	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_4173	28689	species	Treponema A sp000775995	3	3	2	0.670	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A sp000775995
+k115_2979	566	species	Prevotella intermedia	8	8	3	0.580	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_9277	207	family	Bacteroidaceae	3	3	2	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_2232	566	species	Prevotella intermedia	47	44	23	0.630	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_7672	208	genus	Bacteroides	5	5	3	0.600	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_7966	565	genus	Prevotella	28	27	25	0.880	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_1789	566	species	Prevotella intermedia	8	8	3	0.620	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_8040	566	species	Prevotella intermedia	4	4	2	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_1440	566	species	Prevotella intermedia	5	4	3	0.750	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_2619	205	class	Bacteroidia	7	6	3	0.590	d_Bacteria;p_Bacteroidota;c_Bacteroidia
+k115_4924	209	species	Bacteroides fragilis	7	6	6	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_2432	209	species	Bacteroides fragilis	12	10	9	0.880	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9407	566	species	Prevotella intermedia	15	15	8	0.740	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_6572	288	family	Treponemataceae	2	2	2	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae
+k115_9889	209	species	Bacteroides fragilis	26	23	12	0.640	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1656	13548	genus	Treponema A	5	5	3	0.740	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_6620	206	order	Bacteroidales	28	28	20	0.700	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_2513	209	species	Bacteroides fragilis	23	22	9	0.660	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_2137	13549	species	Treponema A vincentii	1	1	1	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A vincentii
+k115_4206	36083	species	Treponema A medium	2	2	2	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A medium
+k115_4239	565	genus	Prevotella	8	8	8	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_4257	209	species	Bacteroides fragilis	13	11	7	0.640	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_6715	565	genus	Prevotella	11	11	9	0.620	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_5961	288	family	Treponemataceae	4	4	3	0.680	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae
+k115_5172	565	genus	Prevotella	20	20	20	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_7245	208	genus	Bacteroides	3	3	2	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_4399	206	order	Bacteroidales	26	25	20	0.840	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_1091	566	species	Prevotella intermedia	21	21	12	0.620	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_1113	209	species	Bacteroides fragilis	19	18	15	0.870	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_8548	35753	species	Treponema D sp002392275	2	2	1	0.500	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema D;s_Treponema D sp002392275
+k115_7743	566	species	Prevotella intermedia	55	51	27	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_1594	566	species	Prevotella intermedia	2	2	2	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_1923	209	species	Bacteroides fragilis	4	4	2	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_7429	565	genus	Prevotella	13	13	10	0.630	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_2024	566	species	Prevotella intermedia	16	16	9	0.610	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_1237	209	species	Bacteroides fragilis	4	3	3	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_6963	209	species	Bacteroides fragilis	8	8	4	0.570	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_4141	288	family	Treponemataceae	4	4	4	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae
+k115_4583	208	genus	Bacteroides	4	3	3	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_5000	209	species	Bacteroides fragilis	2	2	1	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9191	209	species	Bacteroides fragilis	3	3	3	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9606	209	species	Bacteroides fragilis	5	5	4	0.980	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_4227	11375	species	Treponema B denticola A	2	2	2	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema B;s_Treponema B denticola A
+k115_251	209	species	Bacteroides fragilis	3	3	3	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_8807	209	species	Bacteroides fragilis	9	8	5	0.790	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_6731	209	species	Bacteroides fragilis	6	6	3	0.590	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_343	566	species	Prevotella intermedia	3	3	3	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_6360	36083	species	Treponema A medium	7	7	5	0.710	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A medium
+k115_3924	565	genus	Prevotella	12	12	9	0.980	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_6395	566	species	Prevotella intermedia	29	27	17	0.730	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_769	209	species	Bacteroides fragilis	3	3	2	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1539	8420	species	Treponema D porcinum	2	2	1	0.500	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema D;s_Treponema D porcinum
+k115_4777	566	species	Prevotella intermedia	8	8	3	0.730	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_8516	209	species	Bacteroides fragilis	4	4	4	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1044	565	genus	Prevotella	11	11	10	0.840	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_1076	565	genus	Prevotella	26	26	23	0.920	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_7690	15203	species	Parabacteroides bouchesdurhonensis	7	7	3	0.590	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Tannerellaceae;g_Parabacteroides;s_Parabacteroides bouchesdurhonensis
+k115_9360	565	genus	Prevotella	1	1	1	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_6465	13549	species	Treponema A vincentii	4	4	4	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A vincentii
+k115_2657	209	species	Bacteroides fragilis	28	23	13	0.610	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_4494	566	species	Prevotella intermedia	4	4	3	0.750	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_2026	207	family	Bacteroidaceae	31	28	24	0.960	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_5885	565	genus	Prevotella	10	10	8	0.620	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_9671	13548	genus	Treponema A	3	3	2	0.990	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_1382	2	superkingdom	Bacteria	1	1	1	1.000	d_Bacteria
+k115_9323	13548	genus	Treponema A	2	2	2	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_5591	566	species	Prevotella intermedia	13	12	9	0.780	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_4372	566	species	Prevotella intermedia	28	27	16	0.660	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_8065	209	species	Bacteroides fragilis	10	6	3	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9768	566	species	Prevotella intermedia	14	13	8	0.740	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_6134	288	family	Treponemataceae	4	4	4	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae
+k115_6823	13548	genus	Treponema A	7	7	3	0.580	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_6935	2	superkingdom	Bacteria	5	5	5	1.000	d_Bacteria
+k115_6988	566	species	Prevotella intermedia	13	13	8	0.710	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3739	565	genus	Prevotella	37	33	24	0.620	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_8325	30811	species	Prevotella falsenii	4	3	2	0.510	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella falsenii
+k115_4607	566	species	Prevotella intermedia	24	24	10	0.630	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_5023	566	species	Prevotella intermedia	15	15	9	0.730	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_8755	566	species	Prevotella intermedia	11	11	7	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3794	1	no rank	root	3	3	3	1.000	-_root
+k115_9676	209	species	Bacteroides fragilis	4	3	3	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_3846	565	genus	Prevotella	6	5	5	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_7165	566	species	Prevotella intermedia	22	22	16	0.870	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_3115	566	species	Prevotella intermedia	6	4	4	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_6753	209	species	Bacteroides fragilis	19	17	11	0.690	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1807	209	species	Bacteroides fragilis	16	16	14	0.930	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1821	209	species	Bacteroides fragilis	3	3	2	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_6777	566	species	Prevotella intermedia	16	16	7	0.530	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_4418	209	species	Bacteroides fragilis	75	70	41	0.680	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_6161	208	genus	Bacteroides	38	38	21	0.590	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_6178	207	family	Bacteroidaceae	24	19	18	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_5774	209	species	Bacteroides fragilis	10	10	8	0.860	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_7788	206	order	Bacteroidales	12	11	7	0.560	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+k115_6580	209	species	Bacteroides fragilis	4	4	3	0.750	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_2853	207	family	Bacteroidaceae	7	6	3	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_828	205	class	Bacteroidia	7	7	4	0.660	d_Bacteria;p_Bacteroidota;c_Bacteroidia
+k115_9518	207	family	Bacteroidaceae	11	10	6	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_2515	208	genus	Bacteroides	6	6	3	0.590	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_1325	207	family	Bacteroidaceae	24	22	12	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_2561	208	genus	Bacteroides	18	17	13	0.810	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_7927	565	genus	Prevotella	55	53	51	0.950	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_3801	565	genus	Prevotella	10	10	9	0.880	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_6176	565	genus	Prevotella	7	6	5	0.750	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_6190	565	genus	Prevotella	34	33	25	0.810	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_4120	565	genus	Prevotella	5	5	4	0.680	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_9864	209	species	Bacteroides fragilis	52	49	32	0.650	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_4562	36083	species	Treponema A medium	4	4	3	0.670	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A medium
+k115_5432	209	species	Bacteroides fragilis	3	2	2	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_6222	566	species	Prevotella intermedia	6	6	4	0.790	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_5828	565	genus	Prevotella	21	21	20	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_8408	13548	genus	Treponema A	4	4	4	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_3478	13548	genus	Treponema A	2	2	2	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_4090	208	genus	Bacteroides	63	61	34	0.600	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_6573	36083	species	Treponema A medium	2	2	2	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A medium
+k115_9891	209	species	Bacteroides fragilis	30	28	22	0.800	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_8675	208	genus	Bacteroides	6	5	4	0.750	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_4148	209	species	Bacteroides fragilis	17	15	9	0.690	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_4987	209	species	Bacteroides fragilis	31	30	17	0.620	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_8349	209	species	Bacteroides fragilis	10	10	7	0.850	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_4654	209	species	Bacteroides fragilis	19	16	7	0.680	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9261	209	species	Bacteroides fragilis	6	3	3	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_3061	209	species	Bacteroides fragilis	3	2	1	0.500	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_2227	565	genus	Prevotella	3	3	3	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_9284	209	species	Bacteroides fragilis	8	8	5	0.970	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_6719	207	family	Bacteroidaceae	9	9	7	0.980	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_3856	565	genus	Prevotella	15	14	10	0.980	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_9349	209	species	Bacteroides fragilis	6	6	6	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1399	565	genus	Prevotella	93	85	65	0.840	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_5651	566	species	Prevotella intermedia	10	10	7	0.960	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_4907	36083	species	Treponema A medium	5	5	4	0.800	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A;s_Treponema A medium
+k115_6123	13548	genus	Treponema A	2	2	2	1.000	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_4939	566	species	Prevotella intermedia	11	11	9	0.980	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_1329	208	genus	Bacteroides	6	6	6	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_5496	209	species	Bacteroides fragilis	50	47	16	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_7091	208	genus	Bacteroides	5	5	3	0.510	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_8802	565	genus	Prevotella	30	30	26	0.640	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_7669	566	species	Prevotella intermedia	5	5	3	0.940	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_610	2	superkingdom	Bacteria	6	6	5	0.830	d_Bacteria
+k115_646	566	species	Prevotella intermedia	12	12	7	0.960	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_4807	209	species	Bacteroides fragilis	36	35	27	0.890	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_7287	565	genus	Prevotella	27	27	25	0.990	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_6420	209	species	Bacteroides fragilis	17	14	10	0.750	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_6515	209	species	Bacteroides fragilis	9	8	4	0.600	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_9451	207	family	Bacteroidaceae	24	23	17	0.810	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_9899	16153	species	Prevotella multisaccharivorax	8	8	3	0.590	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella multisaccharivorax
+k115_6198	13548	genus	Treponema A	3	3	2	0.990	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_4580	208	genus	Bacteroides	10	10	6	0.700	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_7493	209	species	Bacteroides fragilis	15	15	8	0.760	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_2535	566	species	Prevotella intermedia	4	4	3	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_492	565	genus	Prevotella	6	5	5	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_3043	13548	genus	Treponema A	9	8	2	0.840	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema A
+k115_9656	207	family	Bacteroidaceae	32	30	18	0.540	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_9047	208	genus	Bacteroides	57	54	36	0.710	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_5802	566	species	Prevotella intermedia	5	5	4	0.800	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_8308	209	species	Bacteroides fragilis	14	14	13	0.930	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_5461	209	species	Bacteroides fragilis	7	7	4	0.570	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_5014	207	family	Bacteroidaceae	28	27	23	0.870	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_8749	208	genus	Bacteroides	91	86	45	0.600	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_6285	565	genus	Prevotella	5	5	5	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_3808	565	genus	Prevotella	6	6	4	0.740	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_8494	209	species	Bacteroides fragilis	3	3	2	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_5563	565	genus	Prevotella	32	30	26	0.850	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_9775	208	genus	Bacteroides	103	87	44	0.720	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_1551	566	species	Prevotella intermedia	31	29	15	0.580	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_5726	565	genus	Prevotella	23	22	22	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_3687	2	superkingdom	Bacteria	7	7	7	1.000	d_Bacteria
+k115_6570	565	genus	Prevotella	11	11	11	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_9495	566	species	Prevotella intermedia	16	16	10	0.740	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_1275	208	genus	Bacteroides	3	3	2	0.520	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_7887	11375	species	Treponema B denticola A	4	4	3	0.750	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema B;s_Treponema B denticola A
+k115_469	209	species	Bacteroides fragilis	16	15	12	0.910	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_888	209	species	Bacteroides fragilis	27	26	19	0.780	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_1105	209	species	Bacteroides fragilis	8	7	2	0.630	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_4909	566	species	Prevotella intermedia	62	60	34	0.580	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_800	207	family	Bacteroidaceae	27	27	17	0.590	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+k115_5272	565	genus	Prevotella	7	6	6	1.000	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
+k115_5748	566	species	Prevotella intermedia	8	8	3	0.700	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_1226	209	species	Bacteroides fragilis	50	43	26	0.670	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_8249	566	species	Prevotella intermedia	10	10	6	0.510	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella intermedia
+k115_414	209	species	Bacteroides fragilis	6	6	3	0.600	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+k115_3318	208	genus	Bacteroides	37	37	34	0.900	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k115_7046	565	genus	Prevotella	20	20	19	0.930	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella
