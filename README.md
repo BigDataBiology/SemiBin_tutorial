@@ -44,7 +44,7 @@ With a pretrained model, you do not need to train a model.
 
 ```bash
 SemiBin2 bin_short \
-    --model single_output/model.h5 \
+    --environment human_gut \
     --data single_output/data.csv \
     --input-fasta single_sample_binning/single.fasta \
     --output single_output
@@ -54,7 +54,7 @@ SemiBin2 bin_short \
 
 ```bash
 SemiBin2 bin_short \
-    --environment human_gut \
+    --model single_output/model.h5 \
     --data single_output/data.csv \
     --input-fasta single_sample_binning/single.fasta \
     --output single_output
@@ -103,7 +103,7 @@ SemiBin2 concatenate_fasta \
 
 ```bash
 SemiBin2 generate_sequence_features_multi \
-    --input-fasta multi_sample_binning/combined.fasta \
+    --input-fasta multi_sample_binning/concatenated.fa.gz \
     --input-bam multi_sample_binning/*.bam \
     --output multi_output
 ```
