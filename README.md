@@ -16,11 +16,11 @@ Installing any recent version of the `semibin` package will install both a `Semi
 SemiBin2 check_install
 ```
 
-## Instructions to run SemiBin2
+## How to run SemiBin2
 
-### Gnerating data.csv and data_split.csv for training
+### Single sample mode
 
-#### Single-sample (30 sec)
+**Step 1.** Generate features (30 sec)
 
 ```bash
 SemiBin2 generate_sequence_features_single \
@@ -29,32 +29,7 @@ SemiBin2 generate_sequence_features_single \
     --output single_output
 ```
 
-#### Co-assembly ( 30 sec)
-
-```bash
-SemiBin2 generate_sequence_features_single \
-    --input-fasta coassembly_binning/coassembly.fasta \
-    --input-bam coassembly_binning/*.bam \
-    --output coassembly_output
-```
-
-#### Multi-sample (1 min)
-
-```bash
-SemiBin2 generate_sequence_features_multi \
-    --input-fasta multi_sample_binning/combined.fasta \
-    --input-bam multi_sample_binning/*.bam \
-    --separator : \
-    --output multi_output
-```
-
-For multi-sample binning, after this command, SemiBin2 will generate data.csv and data_split.csv for every sample.
-
-For the following commands, SemiBin2 will deal with every sample in the same way with single-sample, coassembly binning and multi-sample binning. So we just use single-sample binning as an example.
-
-### Training
-
-#### Train from one sample (5 min)
+**Step 2. (optional)** Train a model
 
 ```bash
 SemiBin2 train_self \
@@ -63,19 +38,9 @@ SemiBin2 train_self \
     --output single_output
 ```
 
-#### Train from two samples (5 min)
+**Step 3 (option 1: use pretrained model).** binning (30 secs)
 
-```bash
-SemiBin2 train_self \
-    --train-from-many \
-    --data single_output/data.csv single_output/data.csv \
-    --data-split single_output/data_split.csv single_output/data_split.csv \
-    --output single_output
-```
-
-### Binning
-
-#### Binning with model trained earlier (30 sec)
+With a pretrained model, you do not need to train a model.
 
 ```bash
 SemiBin2 bin_short \
@@ -85,9 +50,7 @@ SemiBin2 bin_short \
     --output single_output
 ```
 
-#### Binning with pretrained model (30 sec)
-
-With a pretrained model, you do not need constraints generation and model training.
+**Step 3 (option 1: use model trained in step 2).** binning (30 secs)
 
 ```bash
 SemiBin2 bin_short \
@@ -97,3 +60,100 @@ SemiBin2 bin_short \
     --output single_output
 ```
 
+### Variation 1: Training a model fom multiple samples
+
+You can train from many samples, using the `--train-from-many` flag. This will (1) take longer, (2) lead to better models.
+
+```bash
+SemiBin2 train_self \
+    --train-from-many \
+    --data single_output/data.csv single_output/data.csv \
+    --data-split single_output/data_split.csv single_output/data_split.csv \
+    --output single_output
+```
+
+### Variation 2: Bin a single set of contigs using multiple samples for abundance estimation.
+
+This can be meaningful if you have either co-assembled the samples or performed cross-mappings (_i.e._, mapped reads from multiple samples to your sample of interest).
+
+You still use the `generate_sequence_features_single` subcommand to generate the features.
+
+```bash
+SemiBin2 generate_sequence_features_single \
+    --input-fasta coassembly_binning/coassembly.fasta \
+    --input-bam coassembly_binning/*.bam \
+    --output coassembly_output
+```
+
+### Variation 3: Multi-sample binning (1 min)
+
+This is a more complex approach, but can obtain very good results.
+
+**Step 1.** Generate a combined FASTA file
+
+```bash
+SemiBin2 concatenate_fasta \
+    --input-fasta multi_sample_binning/S*.fna \
+    --output multi_output
+```
+
+**Step 2.** Map all your samples to that combined FASTA file (code not shown)
+
+**Step 3.** Generate features for multi-sample binning
+
+```bash
+SemiBin2 generate_sequence_features_multi \
+    --input-fasta multi_sample_binning/combined.fasta \
+    --input-bam multi_sample_binning/*.bam \
+    --output multi_output
+```
+
+SemiBin2 will generate data.csv and data_split.csv for every sample.
+
+**Step 4.** Training
+
+You need to train a model for every sample. For example for sample `S1`:
+
+```bash
+SemiBin2 train_self \
+    --data multi_output/samples/S1/data.csv \
+    --data-split multi_output/samples/S1/data_split.csv \
+    --output S1_output
+```
+
+This will take a long time. You can add `--epochs 1` for testing (but the model will not be very good!).
+
+You can also run this in a loop with bash
+
+```bash
+for sample in S1 S2 S3 S4 S5 ; do
+    SemiBin2 train_self \
+        --data multi_output/samples/${sample}/data.csv \
+        --data-split multi_output/samples/${sample}/data_split.csv \
+        --output ${sample}_output
+done
+```
+
+**Step 5.** Binning
+
+Again, you run it separately for every sample:
+
+```bash
+SemiBin2 bin_short \
+    --input-fasta multi_sample_binning/S1.fna \
+    --model S1_output/model.h5 \
+    --data multi_output/samples/S1/data.csv \
+    --output output
+```
+
+or in a loop
+
+```bash
+for sample in S1 S2 S3 S4 S5 ; do
+    SemiBin2 bin_short \
+        --input-fasta multi_sample_binning/{sample}.fna \
+        --model {sample}_output/model.h5 \
+        --data multi_output/samples/{sample}/data.csv \
+        --output output
+done
+```
