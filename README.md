@@ -1,74 +1,99 @@
-# SemiBin tutorial data
+# SemiBin2 tutorial
 
-## Creating an environment with SemiBin installed
+**Important note**: this is a toy dataset that _should not_ be used to draw any biological conclusions! It was produced artificially so that it returns a small number of bins in a short amount of time but that is all.
+
+## Creating an environment with SemiBin2 installed
 
 ```bash
 conda create -n semibin_tutorial
 conda install -n semibin_tutorial -c conda-forge -c bioconda semibin
+conda activate semibin_tutorial
 ```
 
-**Important note**: this is a toy dataset that _should not_ be used to draw any
-biological conclusions!
+Installing any recent version of the `semibin` package will install both a `SemiBin` (corresponding to the old SemiBin1) and a new `SemiBin2` commands. You can test that the installation works by using
 
-## Instructions to run SemiBin
+```bash
+SemiBin2 check_install
+```
+
+## Instructions to run SemiBin2
 
 ### Gnerating data.csv and data_split.csv for training
 
 #### Single-sample (30 sec)
 
 ```bash
-SemiBin generate_sequence_features_single -i single_sample_binning/single.fasta -b single_sample_binning/single.bam -o single_output 
+SemiBin2 generate_sequence_features_single \
+    --input-fasta single_sample_binning/single.fasta \
+    --input-bam single_sample_binning/single.bam \
+    --output single_output
 ```
 
 #### Co-assembly ( 30 sec)
 
 ```bash
-SemiBin generate_sequence_features_single -i coassembly_binning/coassembly.fasta -b coassembly_binning/*.bam -o coassembly_output
+SemiBin2 generate_sequence_features_single \
+    --input-fasta coassembly_binning/coassembly.fasta \
+    --input-bam coassembly_binning/*.bam \
+    --output coassembly_output
 ```
 
 #### Multi-sample (1 min)
 
 ```bash
-SemiBin generate_sequence_features_multi -i multi_sample_binning/combined.fasta -b multi_sample_binning/*.bam -s : -o multi_output
+SemiBin2 generate_sequence_features_multi \
+    --input-fasta multi_sample_binning/combined.fasta \
+    --input-bam multi_sample_binning/*.bam \
+    --separator : \
+    --output multi_output
 ```
 
-For multi-sample binning, after this command, SemiBin will generate data.csv and data_split.csv for every sample. 
+For multi-sample binning, after this command, SemiBin2 will generate data.csv and data_split.csv for every sample.
 
-For the following commands, SemiBin will deal with every sample in the same way with single-sample, coassembly binning and multi-sample binning. So we just use single-sample binning as an example.
-
-### Constraints generation (30 min, we have provided the output of this command, you can skip this step)
-
-```bash
-SemiBin generate_cannot_links -i single_sample_binning/single.fasta -o single_output -r $HOME/.cache/SemiBin/mmseqs2-GTDB/GTDB  
-```
+For the following commands, SemiBin2 will deal with every sample in the same way with single-sample, coassembly binning and multi-sample binning. So we just use single-sample binning as an example.
 
 ### Training
 
 #### Train from one sample (5 min)
 
 ```bash
-SemiBin train --data single_output/data.csv --data-split single_output/data_split.csv -c single_sample_binning/cannot.txt --mode single -i single_sample_binning/single.fasta -o single_output
+SemiBin2 train_self \
+    --data single_output/data.csv \
+    --data-split single_output/data_split.csv \
+    --output single_output
 ```
 
 #### Train from two samples (5 min)
 
 ```bash
-SemiBin train --data single_output/data.csv single_output/data.csv --data-split single_output/data_split.csv single_output/data_split.csv -c single_sample_binning/cannot.txt single_sample_binning/cannot.txt --mode several -i single_sample_binning/single.fasta single_sample_binning/single.fasta -o single_output
+SemiBin2 train_self \
+    --train-from-many \
+    --data single_output/data.csv single_output/data.csv \
+    --data-split single_output/data_split.csv single_output/data_split.csv \
+    --output single_output
 ```
 
 ### Binning
 
-#### Binning with trained model before (30 sec)
+#### Binning with model trained earlier (30 sec)
 
 ```bash
-SemiBin bin --data single_output/data.csv --recluster --model single_output/model.h5 -i single_sample_binning/single.fasta -o single_output
+SemiBin2 bin_short \
+    --model single_output/model.h5 \
+    --data single_output/data.csv \
+    --input-fasta single_sample_binning/single.fasta \
+    --output single_output
 ```
 
 #### Binning with pretrained model (30 sec)
 
-This SemiBin(pretrain) version do not need constraints generation and model training.
+With a pretrained model, you do not need constraints generation and model training.
 
 ```bash
-SemiBin bin --data single_output/data.csv --recluster --environment human_gut -i single_sample_binning/single.fasta -o single_output
+SemiBin2 bin_short \
+    --environment human_gut \
+    --data single_output/data.csv \
+    --input-fasta single_sample_binning/single.fasta \
+    --output single_output
 ```
 
