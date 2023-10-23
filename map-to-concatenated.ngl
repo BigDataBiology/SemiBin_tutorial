@@ -1,0 +1,16 @@
+ngless "1.5"
+import "parallel" version "1.1"
+
+FAFILE = "multi_output/concatenated.fa.gz"
+SAMPLES = ["S1", "S2", "S3", "S4", "S5"]
+
+sample = run_for_all(SAMPLES)
+
+input = fastq("multi_sample_binning" </> sample + ".fq.gz")
+input = preprocess(input) using |read|:
+    read = substrim(read, min_quality=25)
+
+mapped = map(input, fafile=FAFILE)
+
+write(mapped, ofile="multi_output/mapped_" + sample + ".bam")
+

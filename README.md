@@ -150,7 +150,9 @@ SemiBin2 concatenate_fasta \
     --output multi_output
 ```
 
-**Step 2.** Map all your samples to that combined FASTA file (code not shown)
+**Step 2.** Map all your samples to that combined FASTA file (use an external tool).
+
+For completeness, we provide a script to do it with [NGLess](https://ngless.embl.de/), but you can use other tools: [[How to map to the concatenated FASTA file using NGLess](Mapping-To-Concatenate-FASTA.md)]
 
 **Step 3.** Generate features for multi-sample binning
 
