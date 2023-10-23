@@ -64,6 +64,49 @@ SemiBin2 bin_short \
     --output single_output
 ```
 
+## Easy mode(s)
+
+Do everything with a single command. If you provide an environment (_e.g._,
+using `--environment human_gut`), then that environment will be used:
+
+```bash
+SemiBin2 single_easy_bin \
+    --environment human_gut \
+    --input-fasta single_sample_binning/single.fasta \
+    --input-bam single_sample_binning/single.bam \
+    --output easy_out
+```
+
+Otherwise, a new model will get trained:
+
+```bash
+SemiBin2 single_easy_bin \
+    --input-fasta single_sample_binning/single.fasta \
+    --input-bam single_sample_binning/single.bam \
+    --output easy_out
+```
+
+There is also a `multi_easy_bin` command for multi-sample binning.
+
+These are wrapper commands over the more complex pipelines above. They are
+provided for convenience but the _internal process_ is exactly the same as
+running SemiBin2 step-by-step.
+
+## Long-reads algorithms
+
+If you have long-reads, you switch out the `bin_short` subcommand with the `bin_long` subcommand.
+
+Or, if you are using the easy binning subcommands, add `--sequencing-type long_reads`:
+
+```bash
+SemiBin2 single_easy_bin \
+    --environment human_gut \
+    --sequencing_type long_reads \
+    --input-fasta single_sample_binning/single.fasta \
+    --input-bam single_sample_binning/single.bam \
+    --output easy_out_long
+```
+
 ## Variations
 
 Within the basic framework above, we now consider a few different variations, which can lead to better results
