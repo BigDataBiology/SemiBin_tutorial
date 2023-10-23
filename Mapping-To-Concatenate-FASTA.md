@@ -27,6 +27,7 @@ The map-to-concatenated.ngl script should be self-explanatory:
 ```python
 ngless "1.5"
 import "parallel" version "1.1"
+import "samtools" version "1.0"
 
 FAFILE = "multi_output/concatenated.fa.gz"
 SAMPLES = ["S1", "S2", "S3", "S4", "S5"]
@@ -39,5 +40,10 @@ input = preprocess(input) using |read|:
 
 mapped = map(input, fafile=FAFILE)
 
-write(mapped, ofile="multi_output/mapped_" + sample + ".bam")
+sorted_mapped = samtools_sort(mapped)
+
+write(sorted_mapped, ofile="multi_output/mapped_" + sample + ".sorted.bam")
+
+
+
 ```
