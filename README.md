@@ -20,7 +20,7 @@ SemiBin2 check_install
 
 ### Single sample mode
 
-**Step 1.** Generate features (30 sec)
+**Step 1.** Generate features (15 sec)
 
 ```bash
 SemiBin2 generate_sequence_features_single \
@@ -29,7 +29,7 @@ SemiBin2 generate_sequence_features_single \
     --output single_output
 ```
 
-**Step 2. (optional)** Train a model
+**Step 2. (optional)** Train a model (2-10 mins)
 
 ```bash
 SemiBin2 train_self \
@@ -38,7 +38,11 @@ SemiBin2 train_self \
     --output single_output
 ```
 
-**Step 3 (option 1: use pretrained model).** binning (30 secs)
+The time taken by this step can vary by quite a lot depending on your hardware.
+
+You can add `--epochs 1` for testing (but the model will not be very good!).
+
+**Step 3 (option 1: use pretrained model).** binning (30 sec)
 
 With a pretrained model, you do not need to train a model.
 
@@ -60,9 +64,15 @@ SemiBin2 bin_short \
     --output single_output
 ```
 
+## Variations
+
+Within the basic framework above, we now consider a few different variations, which can lead to better results
+
 ### Variation 1: Training a model fom multiple samples
 
 You can train from many samples, using the `--train-from-many` flag. This will (1) take longer, (2) lead to better models.
+
+In this case, we are using the same sample twice, as a demonstration only:
 
 ```bash
 SemiBin2 train_self \
@@ -151,9 +161,9 @@ or in a loop
 ```bash
 for sample in S1 S2 S3 S4 S5 ; do
     SemiBin2 bin_short \
-        --input-fasta multi_sample_binning/{sample}.fna \
-        --model {sample}_output/model.h5 \
-        --data multi_output/samples/{sample}/data.csv \
+        --input-fasta multi_sample_binning/${sample}.fna \
+        --model ${sample}_output/model.h5 \
+        --data multi_output/samples/${sample}/data.csv \
         --output output
 done
 ```
