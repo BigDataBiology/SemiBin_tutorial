@@ -158,6 +158,8 @@ For completeness, we provide a script to do it with [NGLess](https://ngless.embl
 
 **Step 3.** Generate features for multi-sample binning
 
+Once you have produced a sorted BAM file per sample, you can use `generate_sequence_features_multi` to generate features:
+
 ```bash
 SemiBin2 generate_sequence_features_multi \
     --input-fasta multi_sample_binning/concatenated.fa.gz \
