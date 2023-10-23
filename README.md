@@ -101,7 +101,7 @@ Or, if you are using the easy binning subcommands, add `--sequencing-type long_r
 ```bash
 SemiBin2 single_easy_bin \
     --environment human_gut \
-    --sequencing_type long_reads \
+    --sequencing-type long_reads \
     --input-fasta single_sample_binning/single.fasta \
     --input-bam single_sample_binning/single.bam \
     --output easy_out_long
