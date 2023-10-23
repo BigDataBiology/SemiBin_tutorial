@@ -1,4 +1,4 @@
-,multi_output/samples/S1.bam_0_depth.txt_cov,multi_output/samples/S2.bam_1_depth.txt_cov,multi_output/samples/S3.bam_2_depth.txt_cov,multi_output/samples/S4.bam_3_depth.txt_cov,multi_output/samples/S5.bam_4_depth.txt_cov
+,multi_sample_binning/S1.bam_cov,multi_sample_binning/S2.bam_cov,multi_sample_binning/S3.bam_cov,multi_sample_binning/S4.bam_cov,multi_sample_binning/S5.bam_cov
 k115_414_1,9.6133402922755e-05,9.6133402922755e-05,9.6133402922755e-05,9.6133402922755e-05,9.6133402922755e-05
 k115_414_2,1.0000000000000001e-07,1.0000000000000001e-07,1.0000000000000001e-07,1.0000000000000001e-07,1.0000000000000001e-07
 k115_2481_1,0.000385282454847032,0.000385282454847032,0.000385282454847032,0.000385282454847032,0.000385282454847032

@@ -2,6 +2,8 @@
 
 **Important note**: this is a toy dataset that _should not_ be used to draw any biological conclusions! It was produced artificially so that it returns a small number of bins in a short amount of time but that is all.
 
+**Important note II (for people familiar with git)**: This repository contains both input files and partially computed output files. This allows you to run any step in any order. However, if you are using the git checkout, this will overwrite some of the existing files and it will seem that changes were made. Many of the operations of SemiBin are probabilistic and running it twice will return different results.
+
 ## Creating an environment with SemiBin2 installed
 
 ```bash

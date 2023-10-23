@@ -1,4 +1,4 @@
-,coassembly_output/S3.bam_2_depth.txt_mean,coassembly_output/S3.bam_2_depth.txt_var
+,coassembly_binning/S3.bam_mean,coassembly_binning/S3.bam_var
 k115_8675,0.05731897009966778,0.05403465204578317
 k115_2895,0.05872491875923191,0.055277477074328694
 k115_414,0.0541797108861288,0.051245353308642015

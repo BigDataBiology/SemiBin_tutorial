@@ -1,1 +1,11 @@
 single_output/SemiBinRun.log
+easy_out
+S?_output/
+ngless-locks/
+ngless-stats/
+multi_output/samples/S?.fa
+multi_output/mapped_S?.sorted.bam
+SemiBinRun.log
+easy_out_long/
+multi_output/concatenated.fa*
+output/
