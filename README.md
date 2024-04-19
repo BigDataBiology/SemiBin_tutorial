@@ -27,7 +27,7 @@ SemiBin2 check_install
 ```bash
 SemiBin2 generate_sequence_features_single \
     --input-fasta single_sample_binning/single.fasta \
-    --input-bam single_sample_binning/single.bam \
+    --input-bam single_sample_binning/single.sorted.bam \
     --output single_output
 ```
 
@@ -75,7 +75,7 @@ using `--environment human_gut`), then that environment will be used:
 SemiBin2 single_easy_bin \
     --environment human_gut \
     --input-fasta single_sample_binning/single.fasta \
-    --input-bam single_sample_binning/single.bam \
+    --input-bam single_sample_binning/single.sorted.bam \
     --output easy_out
 ```
 
@@ -84,7 +84,7 @@ Otherwise, a new model will get trained:
 ```bash
 SemiBin2 single_easy_bin \
     --input-fasta single_sample_binning/single.fasta \
-    --input-bam single_sample_binning/single.bam \
+    --input-bam single_sample_binning/single.sorted.bam \
     --output easy_out
 ```
 
@@ -105,7 +105,7 @@ SemiBin2 single_easy_bin \
     --environment human_gut \
     --sequencing-type long_reads \
     --input-fasta single_sample_binning/single.fasta \
-    --input-bam single_sample_binning/single.bam \
+    --input-bam single_sample_binning/single.sorted.bam \
     --output easy_out_long
 ```
 

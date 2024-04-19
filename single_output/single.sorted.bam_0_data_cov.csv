@@ -1,4 +1,4 @@
-,single_sample_binning/single.bam_mean,single_sample_binning/single.bam_var
+,single_sample_binning/single.sorted.bam_mean,single_sample_binning/single.sorted.bam_var
 k115_8675,0.05731897009966778,0.05403465204578317
 k115_2895,0.05872491875923191,0.055277477074328694
 k115_414,0.0541797108861288,0.051245353308642015
